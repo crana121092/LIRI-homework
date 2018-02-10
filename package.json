@@ -1,0 +1,22 @@
+{
+  "name": "liri-homework",
+  "version": "1.0.0",
+  "description": "MY LIRI HOMEWORK",
+  "main": "Liri.js",
+  "scripts": {
+    "test": "node Liri.js movie-this \"titanic\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crana121092/LIRI-homework.git"
+  },
+  "author": "Chandani R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crana121092/LIRI-homework/issues"
+  },
+  "homepage": "https://github.com/crana121092/LIRI-homework#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
